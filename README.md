@@ -2,17 +2,24 @@
 
 Group 17: Treaps
 Namani Satya - 2021CSB1112
+
 Imrozepal Singh - 2021CSB1096
+
 Manav Chauhan - 2021CSB1108
 
 Mentor - Akanksha Chuchra
 
 In this project we will be looking at the implementation and practical application of Treaps. It reads from a file data.txt and the first entry is the number os total entries.
     It has 5 functions :
-    insert 
+    
+    insert
+    
     search 
+    
     delete
+    
     meld
+    
     inoreder traversal
     
 Application_treaps_code: 
